@@ -1,0 +1,6 @@
+PyMsgBox
+selenium
+easygui
+pandas
+beautifulsoup4
+numpy
